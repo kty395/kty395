@@ -1,4 +1,6 @@
-## Hi there 👋
+## 
+
+[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=ty0323rkwk&v=2&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
 
 <!--
 **kty395/kty395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
